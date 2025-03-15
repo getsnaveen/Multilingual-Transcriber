@@ -1,8 +1,9 @@
-import os 
+import os, math 
 from abc import ABC, abstractmethod
 from typing import Optional, Any
 from datetime import timedelta
 from faster_whisper import WhisperModel
+from utils import format_time
 
 class Transcribe(ABC):
     def __init__(self):
@@ -15,7 +16,7 @@ class Transcribe(ABC):
 class AudioTranscriptor(Transcribe):
     def __init__(self):
         super().__init__()
-        pass
+        pass   
     
     def AudioTranscriptiontoFile(inputpath:str, languatetoconvert:str, outputpath:str, *args, **kwargs):
         model = WhisperModel('large-v3') 
@@ -23,18 +24,23 @@ class AudioTranscriptor(Transcribe):
         transcribe,info = model.transcribe(audio= inputpath, 
                                           language= languatetoconvert)
         segments = list(transcribe)
-        counter = 0
-        for segment in segments:
-            startTime = segment.start 
-            endTime = segment.end
-            text = segment.text
-            segmentId = counter
-            counter += 1
-            segment = f"{segmentId}\n{startTime} --> {endTime}\n{text[1:] if text[0] is ' ' else text}\n\n"
+        print("########################1")
+        text = ""
+        for index, segment in enumerate(segments):
+            segment_start = format_time(segment.start)
+            segment_end = format_time(segment.end)
+            text += f"{str(index+1)} \n"
+            text += f"{segment_start} --> {segment_end} \n"
+            text += f"{segment.text} \n"
+            text += "\n"
+            
+        f = open(outputpath, "w")
+        f.write(text)
+        f.close()
 
-            # srtFilename = os.path.join(outputpath, f"1.srt")
-            with open(outputpath, 'a', encoding='utf-8') as srtFile:
-                srtFile.write(segment)
 
+        print("########################")
+        
+            
 
     

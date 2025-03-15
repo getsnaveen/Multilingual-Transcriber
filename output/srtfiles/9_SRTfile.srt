@@ -1,124 +1,124 @@
-0
-0.0 --> 1.0
-What are you talking about?
+1 
+00:00:0,000 --> 00:00:1,000 
+ What are you talking about? 
 
-1
-2.0 --> 4.0
-You said yesterday and now they are asking you to come.
+2 
+00:00:2,000 --> 00:00:4,000 
+ You said yesterday and now they are asking you to come. 
 
-2
-4.0 --> 6.0
-Every fool has a day to come.
+3 
+00:00:4,000 --> 00:00:6,000 
+ Every fool has a day to come. 
 
-3
-6.0 --> 8.0
-Today is your day.
+4 
+00:00:6,000 --> 00:00:8,000 
+ Today is your day. 
 
-4
-8.0 --> 10.0
-If they ask you to come, I will let you come.
+5 
+00:00:8,000 --> 00:00:10,000 
+ If they ask you to come, I will let you come. 
 
-5
-12.0 --> 14.0
-I called you out of coverage.
+6 
+00:00:12,000 --> 00:00:14,000 
+ I called you out of coverage. 
 
-6
-14.0 --> 15.0
-I inquired you.
+7 
+00:00:14,000 --> 00:00:15,000 
+ I inquired you. 
 
-7
-15.0 --> 17.0
-I told you about the auto station.
+8 
+00:00:15,000 --> 00:00:17,000 
+ I told you about the auto station. 
 
-8
-17.0 --> 19.0
-If you don't come this time, the doctor will come.
+9 
+00:00:17,000 --> 00:00:19,000 
+ If you don't come this time, the doctor will come. 
 
-9
-22.0 --> 24.0
-How do you know that there is a doctor inside?
+10 
+00:00:22,000 --> 00:00:24,000 
+ How do you know that there is a doctor inside? 
 
-10
-24.0 --> 25.0
-Hey, where are you?
+11 
+00:00:24,000 --> 00:00:25,000 
+ Hey, where are you? 
 
-11
-25.0 --> 27.0
-Stop talking and lift your head.
+12 
+00:00:25,000 --> 00:00:27,000 
+ Stop talking and lift your head. 
 
-12
-30.0 --> 31.0
-I will tell you.
+13 
+00:00:30,000 --> 00:00:31,000 
+ I will tell you. 
 
-13
-37.0 --> 38.0
-Hey!
+14 
+00:00:37,000 --> 00:00:38,000 
+ Hey! 
 
-14
-38.0 --> 39.0
-Hey!
+15 
+00:00:38,000 --> 00:00:39,000 
+ Hey! 
 
-15
-39.0 --> 40.0
-What happened to that doctor?
+16 
+00:00:39,000 --> 00:00:40,000 
+ What happened to that doctor? 
 
-16
-40.0 --> 42.0
-He scolded you by your name.
+17 
+00:00:40,000 --> 00:00:42,000 
+ He scolded you by your name. 
 
-17
-42.0 --> 44.0
-Now he is like the president of your fan association.
+18 
+00:00:42,000 --> 00:00:44,000 
+ Now, he is like the president of your fans association. 
 
-18
-44.0 --> 46.0
-He is writing banners and tearing papers.
+19 
+00:00:44,000 --> 00:00:46,000 
+ He is writing banners and tearing papers. 
 
-19
-46.0 --> 47.0
-Relax!
+20 
+00:00:46,000 --> 00:00:47,000 
+ Relax! 
 
-20
-47.0 --> 50.0
-If you kidnap his son, he will not react.
+21 
+00:00:47,000 --> 00:00:50,000 
+ If I kidnap his son, will he react? 
 
-21
-50.0 --> 51.0
-Did you kidnap him?
+22 
+00:00:50,000 --> 00:00:51,000 
+ Did you kidnap him? 
 
-22
-51.0 --> 52.0
-Yes.
+23 
+00:00:51,000 --> 00:00:52,000 
+ Yes. 
 
-23
-52.0 --> 53.0
-He is the one.
+24 
+00:00:52,000 --> 00:00:53,000 
+ He is the one. 
 
-24
-55.0 --> 56.0
-He is Yalu.
+25 
+00:00:54,000 --> 00:00:55,000 
+ He is Yalu. 
 
-25
-57.0 --> 58.0
-Sir, sir, sir, waiting.
+26 
+00:00:57,000 --> 00:00:58,000 
+ Sir, sir, waiting. 
 
-26
-58.0 --> 59.0
-Your son.
+27 
+00:00:58,000 --> 00:00:59,000 
+ Your son is... 
 
-27
-59.0 --> 60.0
-I am bringing him.
+28 
+00:00:59,000 --> 00:01:0,000 
+ I am bringing him. 
 
-28
-60.0 --> 62.0
-The doctor is killing him.
+29 
+00:01:0,000 --> 00:01:2,000 
+ The doctor is killing him. 
 
-29
-62.0 --> 63.0
-Come, Swami.
+30 
+00:01:2,000 --> 00:01:3,000 
+ Come, Swami. 
 
-30
-65.0 --> 66.0
-Come.
+31 
+00:01:5,000 --> 00:01:6,000 
+ Come. 
 
