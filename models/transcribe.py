@@ -24,7 +24,6 @@ class AudioTranscriptor(Transcribe):
         transcribe,info = model.transcribe(audio= inputpath, 
                                           language= languatetoconvert)
         segments = list(transcribe)
-        print("########################1")
         text = ""
         for index, segment in enumerate(segments):
             segment_start = format_time(segment.start)
@@ -37,10 +36,6 @@ class AudioTranscriptor(Transcribe):
         f = open(outputpath, "w")
         f.write(text)
         f.close()
-
-
-        print("########################")
-        
             
 
     
