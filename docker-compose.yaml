@@ -86,6 +86,10 @@ x-airflow-common:
       condition: service_healthy
 
 services:
+  my-app:
+    build: .
+    ports:
+      - '8501:8501'
   postgres:
     image: postgres:13
     environment:

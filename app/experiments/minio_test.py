@@ -8,8 +8,8 @@ def main():
     # Create a client with the MinIO server playground, its access key
     # and secret key.
     client = Minio("localhost:9000",
-        access_key="lI0Ox3OX09qUDrdvbino",
-        secret_key="GEH1aTrRhU2y48QLPaZvy9MeYgwVwF2scyK7ueIj",
+        access_key="RRpEbyWqJGXqEuUEtemO",
+        secret_key="pIjOmDDWTKpNKo91QY6Ujat78czQysxsHTuMI535",
         secure = False
         
     )
